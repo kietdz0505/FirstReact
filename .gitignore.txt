@@ -1,0 +1,12 @@
+node_modules/
+ios/build/
+android/app/build/
+android/.gradle/
+android/.idea/
+.env
+*.keystore
+.npm/
+.yarn/
+yarn-error.log
+npm-debug.log
+
